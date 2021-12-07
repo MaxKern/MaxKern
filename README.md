@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Max</h1>
-<h3 align="center">A passionate frontend dev and product manager from Germany! 👨🏻‍💻🚀</h3>
+<h3 align="center">A passionate product manager and frontend dev from Germany! 👨🏻‍💻🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxkern&label=Profile%20views&color=ff2600&style=flat" alt="maxkern" /> </p>
 
