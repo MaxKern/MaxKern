@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [InfluenceHorizons.](influencehorizons.com)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and more.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, and a lot more.**
 
 - 👯 I’m looking to collaborate on **frontend & backend challenges.**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me anything **you want to know. We'll see if I can answer it! ;)**
 
-- 📫 How to reach me **kern.max@gmx.net**
+- 📫 How to reach me: **kern.max@gmx.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
