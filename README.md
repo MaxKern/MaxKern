@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxkern&label=Profile%20views&color=ff2600&style=flat" alt="maxkern" /> </p>
 
 <p>I have recently completed the 9-week web development coding bootcamp at Le Wagon London.</p> 
-<p>I've learnt HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails. We have designed, implemented and shipped to production a clone of AirBnB and a Rails prototype. You can check out the latter here: [InfluenceHorizons.](https://influencehorizons.herokuapp.com/) </p>
+<p>I've learnt HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails. We have designed, implemented and shipped to production a clone of AirBnB and a Rails prototype. You can check out the latter here: https://influencehorizons.herokuapp.com/ </p>
 
 - 🔭 I’m currently working on [InfluenceHorizons.](https://influencehorizons.herokuapp.com/)
 
