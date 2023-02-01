@@ -6,7 +6,7 @@
 <p>In 2021, have completed the 10-week web development coding bootcamp at Le Wagon London.</p> 
 <p>I've learnt HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails. We have designed, implemented and shipped to production a clone of AirBnB and a Rails prototype. You can check out the latter here: https://influencehorizons.herokuapp.com/ </p>
 
-- 🔭 I’m currently working on [InfluenceHorizons.](https://influencehorizons.herokuapp.com/)
+- 🔭 I’m currently working on [InfluenceHorizons.](https://influencehorizons.de/)
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, and more.**
 
